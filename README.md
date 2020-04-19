@@ -15,5 +15,6 @@
   - Card (un)blocking
   - Transfers between wallets (hence fees and so on)
   - Input sanitizing (check what is sent to our server)
+  - Security + config: as I'm still not finished with the dev, the mysql connection is still "raw" (localhost, "password") and does not take advantage of nodejs env or anything else (it *really* is.. meh)
   - Documentation (I used Insomnia to mock my endpoints and failed to translate the Insonmia's export to a Swagger format. You can find the Insomnia export within the git [ARandomBank-insomnia.json], for what it worth)
   - and so on (linter, CI/CD, TU/TI/E2E)..
