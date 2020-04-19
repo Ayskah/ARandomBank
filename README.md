@@ -15,4 +15,4 @@
   - Card (un)blocking
   - Transfers between wallets (hence fees and so on)
   - Input sanitizing (check what is sent to our server)
-  and so on (linter, CI/CD, TU/TI/E2E)..
+  - and so on (linter, CI/CD, TU/TI/E2E)..
