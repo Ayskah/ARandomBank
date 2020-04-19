@@ -1,0 +1,33 @@
+{
+  "name": "arandombank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayskah/Test.git"
+  },
+  "author": "VGU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayskah/Test/issues"
+  },
+  "homepage": "https://github.com/Ayskah/Test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "creditcard-generator": "0.0.7",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "mongoose": "^5.9.9",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
